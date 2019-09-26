@@ -77,9 +77,9 @@
             <div class="form-group">
               <input type="password" class="form-control" placeholder="Password">
             </div>
-            <div class="forgot">
+            <!-- <div class="forgot">
               <a href="reset.html">Forgot password?</a>
-            </div>
+            </div> -->
             <button type="submit" class="btn btn-primary">Login</button>
           </form>
         </div>
